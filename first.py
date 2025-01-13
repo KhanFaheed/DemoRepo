@@ -2,4 +2,5 @@ print("hi this is me")
 print("faheed")
 
 
-khuiggjyfyuf
+for i in range(10):
+    print(i)
