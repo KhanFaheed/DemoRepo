@@ -7,6 +7,6 @@ for i in range(10):
 
 print("modified check")
 
-workout
-travel
-food
+print("gym")
+print('travel')
+print("food")
