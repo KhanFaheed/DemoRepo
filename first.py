@@ -6,3 +6,7 @@ for i in range(10):
     print(i)
 
 print("modified check")
+
+workout
+travel
+food
